@@ -3,4 +3,4 @@
 
 ممكن تستخدم shell config سواء على ويندوز من powershell او على لينكس من Bash عشان تخلي عملية التحميل اسهل لو بتستخدم اكتر من ملف كونفيج 
 سايب ملف الكونفيج بتاع powershell في ملف yt-dlp
-![image](https://github.com/user-attachments/assets/4f365282-abe3-4312-9343-05d5661787ea)
+![image](https://github.com/user-attachments/assets/a352765a-ffd5-4f52-ad20-bd5c7d1ed4a4)
