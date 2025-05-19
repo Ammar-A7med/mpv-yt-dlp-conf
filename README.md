@@ -1,2 +1,1 @@
-# mpv-yt-dlp-conf
-my config files and scripts of mpv &amp; yt-dlp
+لو انت هتستخدم اي script من دول يفضل انك تحمله من مصدره الرسمي باحدث اصدار عشان انا مش بحدث ال scripts طول ما هي شغالة وبتأدي وظيفتها ومفهاش مشاكل 
